@@ -3,14 +3,6 @@
    "message":"SUCCESS",
    "data":[
        {
-         "id":8,
-         "domain":"https://h5.aog207.com",
-         "webDomain":"https://h5.aog207.com",
-         "status":1,
-         "domainType":null,
-         "speed":"0.011"
-      },     
-       {
          "id":9,
          "domain":"https://h5.aog233.vip",
          "webDomain":"https://h5.aog233.vip",
@@ -18,14 +10,6 @@
          "domainType":null,
          "speed":"0.011"
       },     
-       {
-         "id":10,
-         "domain":"https://h5.aog286.co",
-         "webDomain":"https://h5.aog286.co",
-         "status":1,
-         "domainType":null,
-         "speed":"0.011"
-      },      
       {
          "id":11,
          "domain":"https://sfsyzoiu.tv",
@@ -49,7 +33,23 @@
          "status":1,
          "domainType":null,
          "speed":"0.011"
-      },     
+      },
+       {
+         "id":8,
+         "domain":"https://h5.aog207.com",
+         "webDomain":"https://h5.aog207.com",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },   
+       {
+         "id":10,
+         "domain":"https://h5.aog286.co",
+         "webDomain":"https://h5.aog286.co",
+         "status":1,
+         "domainType":null,
+         "speed":"0.011"
+      },      
       {
          "id":12,
          "domain":"https://totzhmtr.co",
